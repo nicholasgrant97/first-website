@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 0c0043c4-82f8-4598-abec-2209c6f813d0
+      url: 'https://nicholasgrant97.quarto.pub/first-website'

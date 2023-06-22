@@ -2,8 +2,25 @@
 title: "About"
 ---
 
-About this site
+## About Me
+**Nicholas Grant** holds a Bachelor of Science in Aerospace Engineering from NYU Tandon School of Engineering (formerly Polytechnic University). Currently exploring data science as a field of interest after previous professional experiences as a mechanical engineer and sales engineer.
 
-```{r}
-1 + 1
-```
+## About the Project
+*Inside the Numbers*
+
+Injuries are inevitable across all sports. This project will explore NFL data to identify the type of injuries with the most lost time (games) per position. Injuries that occur during special teams play will be designated ST as the position except the kicker and punter positions.
+
+### Goals
+
+- Identify the types of injuries that result in the most lost time (games).
+  +access to data
+- Identify the positions that are most likely to suffer the most lost time (games).
+  +access to data
+- Identify the injuries with the most lost time (games) per position.
+  +access to data
+
+"This is data science"
+\
+~Preceptor
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)

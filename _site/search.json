@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Nicholas Grant holds a Bachelor of Science in Aerospace Engineering from NYU Tandon School of Engineering (formerly Polytechnic University). Currently exploring data science as a field of interest after previous professional experiences as a mechanical engineer and sales engineer."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "first-website",
@@ -7,10 +14,24 @@
     "text": "library(tidyverse)\nlibrary(ggthemes)\n\n\nmtcars |&gt; \n  select(mpg, wt) |&gt; \n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point() +\n  geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +\n  theme_clean() +\n  labs(title = \"Fuel Efficiency and Weight\",\n       subtitle = \"Heavier cars are less fuel efficient\",\n       X = \"Weight (1000s of lbs)\",\n       Y = \"MPG\",\n       caption = \"Henderson and Vellerman (1981)\")"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Nicholas Grant holds a Bachelor of Science in Aerospace Engineering from NYU Tandon School of Engineering (formerly Polytechnic University). Currently exploring data science as a field of interest after previous professional experiences as a mechanical engineer and sales engineer."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nInside the Numbers\nInjuries are inevitable across all sports. This project will explore NFL data to identify the type of injuries with the most lost time (games) per position. Injuries that occur during special teams play will be designated ST as the position except the kicker and punter positions.\n\nGoals\n\nIdentify the types of injuries that result in the most lost time (games). +access to data\nIdentify the positions that are most likely to suffer the most lost time (games). +access to data\nIdentify the injuries with the most lost time (games) per position. +access to data\n\n“This is data science”\n~Preceptor\nKane’s Free Data Science Bootcamp"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About",
+    "section": "### Goals",
+    "text": "### Goals"
   }
 ]
